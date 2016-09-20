@@ -1,0 +1,26 @@
+{
+  "name": "tranformy",
+  "version": "1.0.0",
+  "description": "accepts a generic object and transforms its key/val",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"nothing yet, try again soon\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dhigginbotham/transformy.git"
+  },
+  "keywords": [
+    "transform",
+    "object"
+  ],
+  "author": "dhigginbotham <davehigginbotham@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhigginbotham/transformy/issues"
+  },
+  "homepage": "https://github.com/dhigginbotham/transformy#readme",
+  "dependencies": {
+    "lodash.merge": "^4.6.0"
+  }
+}
